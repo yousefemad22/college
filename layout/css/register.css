@@ -1,0 +1,18 @@
+body {
+  background-image: url(../../img/re.jpg);
+  background-size: cover;
+  mask-position: center;
+  background-repeat: no-repeat;
+}
+
+form {
+  color: aliceblue;
+  font-size: large;
+  font-weight: bold;
+  width: 50rem;
+  margin: auto;
+  margin-top: 12rem;
+}
+.btn {
+  margin-left: 43rem;
+}
